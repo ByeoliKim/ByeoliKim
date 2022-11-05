@@ -29,4 +29,3 @@
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
   </div>
 </div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=50&fontColor=ffffff)
