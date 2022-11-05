@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=50&fontColor=ffffff)
-<div align="center"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
