@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=110&fontColor=ffffff)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
 <div align="left">
-  👋🏻 Hi there! I'm <b>Web Frontend developer</b>. 🚀 <br/>
-  I'm thinking about making a beautiful UI every day! 💖<br/><br/>
+  <h2>👋🏻 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝚆𝚎𝚋 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 🚀</h2>
+  <h3>𝙸'𝚖 𝚝𝚑𝚒𝚗𝚔𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚔𝚒𝚗𝚐 𝚊 𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚄𝙸 𝚎𝚟𝚎𝚛𝚢 𝚍𝚊𝚢! 💖</h3><br/>
 ▒▒▒▒▒▒▒▒▒▒▒▒<br/>
 ▒▒▒▒▓▒▒▓▒▒▒▒<br/>
 ▒▒▒▒▓▒▒▓▒▒▒▒<br/>
 ▒▒▒▒▒▒▒▒▒▒▒▒<br/>
 ▒▓▒▒▒▒▒▒▒▒▓▒<br/>
 ▒▒▓▓▓▓▓▓▓▓▒▒<br/>
-▒▒▒▒▒▒▒▒▒▒▒▒<br/>
+▒▒▒▒▒▒▒▒▒▒▒▒<br/><br/>
 
   <h4>💪🏻Skills</h4>
   <div>
