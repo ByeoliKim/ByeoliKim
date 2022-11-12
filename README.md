@@ -2,7 +2,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
 <div align="left">
   👋🏻 Hi there! I'm <b>Web Frontend developer</b>. 🚀 <br/>
-  I'm thinking about making a beautiful UI every day! 💖
+  I'm thinking about making a beautiful UI every day! 💖<br/><br/>
+▒▒▒▒▒▒▒▒▒▒▒▒<br/>
+▒▒▒▒▓▒▒▓▒▒▒▒<br/>
+▒▒▒▒▓▒▒▓▒▒▒▒<br/>
+▒▒▒▒▒▒▒▒▒▒▒▒<br/>
+▒▓▒▒▒▒▒▒▒▒▓▒<br/>
+▒▒▓▓▓▓▓▓▓▓▒▒<br/>
+▒▒▒▒▒▒▒▒▒▒▒▒<br/>
+
   <h4>💪🏻Skills</h4>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
@@ -40,4 +48,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <div>
   </div>
+    
 </div>
+
