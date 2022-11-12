@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=110&fontColor=ffffff)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
 <div align="left">
   👋🏻 Hi there! I'm <b>Web Frontend developer</b>. 🚀 <br/>
