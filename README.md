@@ -12,7 +12,7 @@
   
   <h4>🤓About Me</h4>
   <div>
-    <a href="https://dev-star.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
+    <a href="https://dev-star.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
   </div>
   
   <h4>💪🏻Skills</h4>
