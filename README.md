@@ -9,7 +9,12 @@
 ▒▓▒▒▒▒▒▒▒▒▓▒<br/>
 ▒▒▓▓▓▓▓▓▓▓▒▒<br/>
 ▒▒▒▒▒▒▒▒▒▒▒▒<br/><br/>
-
+  
+  <h4>🤓About Me</h4>
+  <div>
+    <a href="https://dev-star.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
+  </div>
+  
   <h4>💪🏻Skills</h4>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
