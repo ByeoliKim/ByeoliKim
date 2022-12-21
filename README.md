@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=110&animation=fadeIn&fontAlignY=45&fontColor=ffffff" />
 </div>
 
-```
+``` javascript
   const byeoliKim = {
     nickName: "star",
-    frontEnd:["html5", "css3" , "Javascript", "React", "Typescript"],
-    interests:["UI/UX","interactive web"]
+    frontEnd: ["HTML5", "CSS3" , "JavaScript", "React", "TypeScript"],
+    interests: ["UI/UX","Interactive WEB"]
   }
 ```
 
