@@ -1,25 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=110&fontColor=ffffff)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=cobalt2)
-<div align="left">
-  <h3>👋🏻 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 𝙒𝙚𝙗 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧. 🚀 𝙄'𝙢 𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙢𝙖𝙠𝙞𝙣𝙜 𝙖 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡 𝙐𝙄 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮! 💖</h3><br/>
-  
-💐💐😉😊💐💐 <br/>
- ☕ Cheer Up  🍵 <br/>
-🍂 ✨ )) ✨  🍂 <br/>
-🍂┃ (( * ┣┓ 🍂 <br/>
-🍂┃*💗 ┣┛ 🍂 <br/>
-🍂┗━━┛  🍂 <br/>
- 🎂 For YOU  🍰 <br/>
-💐💐😌😚💐💐 <br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=000000&height=260&section=header&text=💫star%20log.&fontSize=110&animation=fadeIn&fontAlignY=45&fontColor=ffffff" />
+</div>
 
-
+<div align="center">
+  <h2>👋🏻 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 𝙒𝙚𝙗 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧. 🚀<br/>💖 𝙄'𝙢 𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙢𝙖𝙠𝙞𝙣𝙜 𝙖 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡 𝙐𝙄 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮! 💖</h2>
   
-  <h4>🤓About Me</h4>
+ <hr>
+  
+  <h3>🤓 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 🤓</h3>
   <div>
     <a href="https://dev-star.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
   </div>
   
-  <h4>💪🏻Skills</h4>
+  <hr>
+  
+  <h3>💪 𝙎𝙠𝙞𝙡𝙡𝙨 🔫 </h3>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
@@ -29,7 +24,9 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
   </div>
   
-  <h4>🔗 Tools</h4>
+  <hr>
+  
+  <h3>🔗 𝙏𝙤𝙤𝙡𝙨 🕹</h3>
   <div>
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
@@ -44,14 +41,18 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white">
   </div>
   
-  <h4>🧐 Studying</h4>
+  <hr>
+  
+  <h3>🧐 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 📚</h3>
   <div>
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white">
     <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
   </div>
   
-  <h4>🍔 Communication</h4>
+  <hr>
+  
+  <h3>🍔 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙤𝙣 🍟</h3>
   <div>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
@@ -59,7 +60,18 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <div>
+  
+   <hr>
+   
   </div>
     
 </div>
+<br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeoliKim&show_icons=true&theme=dark)
 
+  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+</div>
+  
