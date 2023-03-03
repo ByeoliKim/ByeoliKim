@@ -4,19 +4,18 @@
 
 ``` javascript
   const byeoliKim = {
-    nickName: "star",
+    nickName: "kimstar2",
+    mbti: "ESFJ(그런데 F와 T가 반반 나오는 사회화 된)",
     frontEnd: ["HTML5", "CSS3" , "JavaScript", "React", "TypeScript"],
-    interests: ["UI/UX","Interactive WEB"]
+    game: ["LostArk","League of Legends"],
+    discord: "벼리#8474",
+    server: "루페온"
   }
 ```
 
 <div align="center">
   
-  
-
-  그냥저냥 공부 기록하는 <a href="https://dev-star.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a> 있습니다.
-  
-  <hr>
+  <img src="https://item.kakaocdn.net/do/227099b086918f895eaa636a43fdc923ce9463e040a07a9462a54df43e1d73f1" alt="농담곰=나" />
   
   <div>
     그냥저냥 이런 기술들을
@@ -29,17 +28,11 @@
     가지고 있습니다.
   </div>
   
-  <hr>
+  그냥저냥 공부 기록하는 <a href="https://dev-star.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a> 블로그도 있습니다.
   
-   <hr>
-   
-  </div>
-    
 </div>
 <br/>
-  
 
-  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </div>
