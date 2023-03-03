@@ -6,7 +6,7 @@
   const byeoliKim = {
     nickname: "star",
     mbti: "ESF(T)J",
-    game: ["LostArk","League of Legends"],
+    game: ["LostArk","LeagueofLegends"],
     discord: "벼리#8474",
     server: "루페온"
   }
@@ -30,7 +30,6 @@
   
 </div>
 <br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </div>
