@@ -7,8 +7,7 @@
     nickname: "star",
     mbti: "ESF(T)J",
     game: ["LostArk","LeagueofLegends"],
-    discord: "벼리#8474",
-    server: "루페온"
+    discord: "벼리#8474"
   }
 ```
 
