@@ -4,7 +4,7 @@
 
 ``` javascript
   const byeoliKim = [
-    { nickname: '벼리', mbti: 'esf(t)j', lol: 'lostark' }
+    { nickname: '벼리', mbti: 'estj', lol: 'lostark' }
   ]
 ```
 
