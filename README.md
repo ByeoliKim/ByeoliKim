@@ -3,9 +3,13 @@
 </div>
 
 ``` javascript
-  const byeoliKim = [
-    { nickname: '벼리', mbti: 'estj', lol: 'lostark' }
-  ]
+  const byeoliKim = {
+    nickname : 'Jerry',
+    mbti : 'ESTJ',
+    🗡️ : [ 'html5', 'css3', 'javascript', 'react' ]
+    👽 : [ 'UI/UX', 'interactive web' ]
+    lol : 'LOSTARK',
+  }
 ```
 
 <div align="left">
