@@ -12,9 +12,9 @@
   }
 ```
 
-<div align="left">
+<div align="center">
   
-  <img src="https://item.kakaocdn.net/do/227099b086918f895eaa636a43fdc923ce9463e040a07a9462a54df43e1d73f1" alt="농담곰=나" />
+  <img src="https://media2.giphy.com/media/8VbpkTaUHYm4CJ4WGm/giphy.gif" alt="jerry" />
   
   
 </div>
