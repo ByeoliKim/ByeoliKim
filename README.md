@@ -4,17 +4,13 @@
 
 ``` javascript
   const byeoliKim = {
-    nickname : 'Jerry',
     mbti : 'ESTJ',
-    🗡️ : [ 'html5', 'css3', 'javascript', 'react' ]
-    👽 : [ 'UI/UX', 'interactive web' ]
-    lol : 'LOSTARK',
+    🗡️ : [ 'React', 'Next.js', 'JavaScript', 'TypeScript', 'Vue', 'HTML', 'CSS', 'Tailwind', 'Zustand', 'FramerMotion' ],
+    🏹 : [ 'Git', 'Figma', 'Zeplin', 'Notion', 'Jira', 'Slack' ]
   }
 ```
 
 <div align="center">
-  
-  <img src="https://media2.giphy.com/media/8VbpkTaUHYm4CJ4WGm/giphy.gif" alt="jerry" />
   
   
 </div>
