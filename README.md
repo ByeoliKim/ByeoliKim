@@ -6,7 +6,7 @@
   const byeoliKim = {
     mbti : 'ESTJ',
     🗡️ : [ 'React', 'Next.js', 'JavaScript', 'TypeScript', 'Vue', 'HTML', 'CSS', 'Tailwind', 'Zustand', 'FramerMotion' ],
-    🏹 : [ 'Git', 'Figma', 'Zeplin', 'Notion', 'Jira', 'Slack' ]
+    🏹 : [ 'Git', 'Svn', 'Figma', 'Zeplin', 'Notion', 'Jira', 'Slack' ]
   }
 ```
 
