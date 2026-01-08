@@ -5,7 +5,7 @@
 ``` javascript
   const byeoliKim = {
     mbti : 'ESTJ',
-    🗡️ : [ 'React', 'Next.js', 'JavaScript', 'TypeScript', 'Vue', 'HTML', 'CSS', 'Tailwind', 'Zustand', 'FramerMotion' ],
+    🗡️ : [ 'React', 'Next.js', 'JavaScript', 'TypeScript', 'Vue', 'HTML', 'CSS', 'Tailwind', 'Supabase', 'Zustand', 'React-Query', 'FramerMotion' ],
     🏹 : [ 'Git', 'Svn', 'Figma', 'Zeplin', 'Notion', 'Jira', 'Slack' ]
   }
 ```
